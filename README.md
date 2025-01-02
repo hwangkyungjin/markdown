@@ -30,6 +30,8 @@ markdown20250_01_02
 #프로젝트 기획
 
 *개발환경
+![image](https://github.com/user-attachments/assets/cc84c307-1738-4261-9fe7-cbe83ee92c77)
+
 
 *WBS
 [2조 WBS.xlsx](https://github.com/user-attachments/files/18288979/2.WBS.xlsx)
