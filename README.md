@@ -40,7 +40,7 @@ Spring Framework의 MVC패턴 기법을 적용한 그룹웨어 프로그램을 �
 
 #프로젝트 기획
 
-##개발환경 
+*개발환경 
 <br>
 -OS : Windows11 <br>
 -FW : Spring Framework <br>
