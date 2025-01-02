@@ -51,7 +51,7 @@ Spring Framework의 MVC패턴 기법을 적용한 그룹웨어 프로그램을 �
 -Developer Tools : eXERD / SQLDeveloper <br>
 -GitHub
 <br>
-![image](https://github.com/user-attachments/assets/cc84c307-1738-4261-9fe7-cbe83ee92c77)
+![image](https://github.com/user-attachments/assets/ffdb1415-0427-4806-98dd-c07ebedf13ae)
 ![image](https://github.com/user-attachments/assets/f43006c7-ae1f-45aa-9471-66a7d357e107)
 
 
