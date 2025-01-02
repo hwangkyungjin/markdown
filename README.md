@@ -52,7 +52,7 @@ Spring Framework의 MVC패턴 기법을 적용한 그룹웨어 프로그램을 �
 -GitHub
 <br>
 ![image](https://github.com/user-attachments/assets/ffdb1415-0427-4806-98dd-c07ebedf13ae)
-![image](https://github.com/user-attachments/assets/f43006c7-ae1f-45aa-9471-66a7d357e107)
+![image](https://github.com/user-attachments/assets/444f02aa-e1cf-40ce-91b3-133a3453e5ee)
 
 
 *WBS
