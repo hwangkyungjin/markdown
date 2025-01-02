@@ -32,7 +32,7 @@ markdown20250_01_02
 *개발환경
 
 *WBS
-![casting]
+[2조 WBS.xlsx](https://github.com/user-attachments/files/18288979/2.WBS.xlsx)
 
 <br>
 <br>
